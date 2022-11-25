@@ -1,0 +1,24 @@
+.imgsz
+{
+    height: 400px;
+    width: 100%;
+}
+.mid{
+    align-items: center;
+}
+.txtHead{
+    color: black;
+}
+h3{
+    color: red;
+    font-style: italic;
+    font-family: Verdana;
+}
+#abt{
+    font-size:125% ;
+    text-align: justify;
+}
+#abt1{
+    text-align: justify;
+    font-size: 100%;
+}
